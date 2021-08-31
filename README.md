@@ -1,2 +1,2 @@
 # firstrepo
-Dandyala Harshita, Craeting a sample repo
+Dandyala Harshita, Creating a sample repo
